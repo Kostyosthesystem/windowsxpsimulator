@@ -1,0 +1,2 @@
+# windowsxpsimulator
+mysimulator
